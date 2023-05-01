@@ -3,7 +3,9 @@ package org.yearup;
 
 public class Main {
 
-    public static void main(String[] args) throws Exception {
+    //main class, run program
+    public static void main(String[] args) throws Exception
+    {
         System.out.println("Hello Shopper!");
         System.out.println();
 
